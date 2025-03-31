@@ -1,1 +1,8 @@
-# design-patterns
+# Design Patters
+
+
+
+``` bash
+  $ deno --watch specific-file 
+```
+ 
