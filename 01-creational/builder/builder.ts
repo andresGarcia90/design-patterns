@@ -1,5 +1,5 @@
-import { COLORS } from '../helpers/colors.ts';
-import { getTextLonger, formatText } from '../helpers/text.ts';
+import { COLORS } from '../../helpers/colors.ts';
+import { getTextLonger, formatText } from '../../helpers/text.ts';
 class Computer {
   public cpu: string = 'cpu - not defined';
   public ram: string = 'ram - not defined';
