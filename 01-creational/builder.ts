@@ -50,6 +50,9 @@ class ComputerBuilder {
   }
 
 
+  // aca esta la posta del patron Builder.
+  // Te permite devolver una instancia superior.
+  // sin importar como este seteado por dentro el objeto.
   build(): Computer {
     return this.computer;
   }
