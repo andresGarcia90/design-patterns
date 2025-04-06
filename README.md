@@ -9,7 +9,7 @@ Fuentes
 - [O'Reilly Learning JavaScript Design Patters](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/)
 
 ### Patrones creacionales
-- [Builder](01-creational\builder\builder.md)
+- [Builder](main/01-creational/builder/builder.md)
 
 
 
