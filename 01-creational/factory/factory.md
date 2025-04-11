@@ -12,7 +12,7 @@ Imaginamos una situación donde estamos creando una aplicación de gestión log�
 
 El patrón Factory sugiere que en lugar de llamar al operador new para construir objetos directamente, se invoque a un método fabrica especial. Los objetos se siguen creando a través del operador new, pero se invocan desde el método fábrica. Los objetos devueltos por el método fábrica a menudo se denominan productos
 
-![alt text](image.png)
+![alt text](./images/image.png)
 
 ## Cuando usar el patrón 
 - Cuando la configuración del objeto o componente involucra un nivel alto de complejidad.
